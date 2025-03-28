@@ -9,6 +9,7 @@ def main(): Unit =
   val lost = "\uD83D\uDE35"
 
   print("gitted")
+  print("pushed again")
 
   val mine =
     s"""Time for Minesweeper!
