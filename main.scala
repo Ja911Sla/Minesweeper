@@ -8,6 +8,8 @@ def main(): Unit =
   val won = "\uD83D\uDE0E"
   val lost = "\uD83D\uDE35"
 
+  print("gitted")
+
   val mine =
     s"""Time for Minesweeper!
 
