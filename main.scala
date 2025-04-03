@@ -11,7 +11,7 @@ def main(): Unit =
   print("gitted")
   print("pushed again")
   print("pushed from laptop")
-  print("nochmal pushed")
+  print("pushed")
 
   val mine =
     s"""Time for Minesweeper!
