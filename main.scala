@@ -17,7 +17,6 @@ def main(): Unit =
   print("neuer1")
 
   print("manuel neuer")
-
   
   val mine =
     s"""Time for Minesweeper!
