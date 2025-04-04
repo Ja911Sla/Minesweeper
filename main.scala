@@ -17,6 +17,10 @@ def main(): Unit =
   print("neuer1")
 
   print("manuel neuer")
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 9348f708d5072cee2cfbcd8e30fcef9213b4fce4
   
   val mine =
     s"""Time for Minesweeper!
