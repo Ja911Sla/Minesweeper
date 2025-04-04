@@ -26,7 +26,7 @@ def main(): Unit =
 =======
 <<<<<<< HEAD
 print("nochmal geneuert")
- 
+print("saodfniodflkndflk")
 =======
  print("end me")
 >>>>>>> b398c27da039c0c660120c1eb5a4445891532fd1
