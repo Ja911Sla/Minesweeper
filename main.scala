@@ -24,8 +24,12 @@ def main(): Unit =
 <<<<<<< HEAD
 >>>>>>> ddb915a4cc62e29da241526a3aabca44f44fdee9
 =======
+<<<<<<< HEAD
 print("nochmal geneuert")
  
+=======
+ print("end me")
+>>>>>>> b398c27da039c0c660120c1eb5a4445891532fd1
 >>>>>>> 9348f708d5072cee2cfbcd8e30fcef9213b4fce4
   
   val mine =
