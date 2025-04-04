@@ -2,7 +2,6 @@
 @main
 def main(): Unit =
 
-  println()
   val fl = "\uD83D\uDEA9"
   val sm = "\uD83D\uDE03"
   val won = "\uD83D\uDE0E"
@@ -15,23 +14,8 @@ def main(): Unit =
   print("hallo")
   print("neu")
   print("neuer1")
-
   print("manuel neuer")
-<<<<<<< HEAD
-  print("neuer2")
-=======
-  print("neuererererer")
-<<<<<<< HEAD
->>>>>>> ddb915a4cc62e29da241526a3aabca44f44fdee9
-=======
-<<<<<<< HEAD
-print("nochmal geneuert")
-print("saodfniodflkndflk")
-=======
- print("end me")
->>>>>>> b398c27da039c0c660120c1eb5a4445891532fd1
->>>>>>> 9348f708d5072cee2cfbcd8e30fcef9213b4fce4
-<<<<<<< HEAD
+  
 // klasnfklnasf
   val mine =
     s"""Time for Minesweeper!
