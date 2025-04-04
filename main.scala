@@ -32,6 +32,7 @@ print("saodfniodflkndflk")
 >>>>>>> b398c27da039c0c660120c1eb5a4445891532fd1
 >>>>>>> 9348f708d5072cee2cfbcd8e30fcef9213b4fce4
   
+  // hallo
   val mine =
     s"""Time for Minesweeper!
 
