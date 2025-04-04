@@ -13,6 +13,7 @@ def main(): Unit =
   print("pushed from laptop")
   print("pushed")
   print("hallo")
+  print("neu")
 
   val mine =
     s"""Time for Minesweeper!
